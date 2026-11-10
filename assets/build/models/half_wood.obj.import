@@ -1,0 +1,23 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cy3gmgym4n2hr"
+path="res://.godot/imported/half_wood.obj-3534f824fda5fc98ea4ee609c73b2283.mesh"
+
+[deps]
+
+source_file="res://assets/build/models/half_wood.obj"
+dest_files=["res://.godot/imported/half_wood.obj-3534f824fda5fc98ea4ee609c73b2283.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,23 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dikuqubjfmdm6"
+path="res://.godot/imported/floor_triangle_wood_original.obj-61781415108c9b7586a2370eacd1865a.mesh"
+
+[deps]
+
+source_file="res://assets/build/models/floor_triangle_wood_original.obj"
+dest_files=["res://.godot/imported/floor_triangle_wood_original.obj-61781415108c9b7586a2370eacd1865a.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

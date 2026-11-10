@@ -1,0 +1,23 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byho4qk52xlxw"
+path="res://.godot/imported/window_stone.obj-80f5df02bfbd013cb1a9f73f6829b655.mesh"
+
+[deps]
+
+source_file="res://assets/build/models/window_stone.obj"
+dest_files=["res://.godot/imported/window_stone.obj-80f5df02bfbd013cb1a9f73f6829b655.mesh"]
+
+[params]
+
+generate_tangents=true
+generate_lods=true
+generate_shadow_mesh=true
+generate_lightmap_uv2=false
+generate_lightmap_uv2_texel_size=0.2
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+force_disable_mesh_compression=false

@@ -1,0 +1,9 @@
+# Exported from Godot Engine
+
+newmtl body
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+
+newmtl indicator
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
