@@ -1,0 +1,8 @@
+.godot/
+.tools/
+build/
+dist/
+export_credentials.cfg
+*.log
+*.tmp
+.DS_Store
